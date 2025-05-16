@@ -94,5 +94,3 @@ Face matched with 98.75% similarity
 
 * AWS Rekognition documentation: [https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html](https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html)
 * boto3 AWS SDK: [https://boto3.amazonaws.com/v1/documentation/api/latest/index.html](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
-
-```
