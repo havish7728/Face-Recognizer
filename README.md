@@ -29,7 +29,7 @@ A Python project that uses AWS Rekognition to detect and compare faces in images
    ```bash
    git clone https://github.com/your-username/face-recognition-aws.git
    cd face-recognition-aws
-````
+    ````
 
 2. **Create and activate a virtual environment (optional but recommended)**
 
